@@ -29,7 +29,3 @@
 - 📷 Video/Photo Editing
   
 - ✏️ Drawing
-
-- 🔌 Computer Components
-
-- 🚗 Cars
